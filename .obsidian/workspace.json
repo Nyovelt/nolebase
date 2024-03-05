@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29a8c14cf89d5c52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Awesome-Collections/URLs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "keyboard",
+                "query": "tag:#软件/Obsidian/插件/Dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Papers/FCA/FCA Experiment.md",
+                "file": "Notes/Awesome-Collections/URLs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -141,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Papers/FCA/FCA Experiment.md"
+                "file": "Notes/Awesome-Collections/URLs.md"
               }
             }
           },
@@ -166,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Papers/FCA/FCA Experiment.md",
+                "file": "Notes/Awesome-Collections/URLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Papers/FCA/FCA Experiment.md",
+                "file": "Notes/Awesome-Collections/URLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,10 +231,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42c81edb6ef96e83",
+  "active": "29a8c14cf89d5c52",
   "lastOpenFiles": [
-    "Notes/index.md",
     "Notes/Papers/FCA/FCA Experiment.md",
+    "Notes/Awesome-Collections/URLs.md",
+    "URLs.md",
+    "Notes/index.md",
     "Notes/Papers/FCA",
     "Notes/Papers",
     "Untitled",
@@ -259,8 +275,6 @@
     "笔记/🧱 基础设施/🚢 Kubernetes/完全卸载使用 KubeKey 安装的 Calico.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/完全卸载使用 Helm 安装的 Cilium.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/如何开发和测试 Clusterpedia.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/在 Kubernetes 集群上的 GPU 掉卡和故障排查.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/在 Kubeadm 部署的 Kubernetes 集群中安装 Cilium.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/assets",
     "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新",
     "笔记/🧱 基础设施/🚢 Kubernetes",
