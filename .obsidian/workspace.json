@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "视图/尚未编写完成的页面.md",
+                "file": "Notes/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "视图/尚未编写完成的页面.md",
+                "file": "Notes/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "视图/尚未编写完成的页面.md"
+                "file": "Notes/index.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "视图/尚未编写完成的页面.md",
+                "file": "Notes/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "视图/尚未编写完成的页面.md",
+                "file": "Notes/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,52 +219,52 @@
   },
   "active": "42c81edb6ef96e83",
   "lastOpenFiles": [
-    "视图/未添加标签的页面.md",
-    "视图/尚未编写完成的页面.md",
-    "笔记/Projects/Nolebase.md",
-    "笔记/Awesome-Collections/Resources/2023 年排名前 10 的 AI 和 LLM 应用.md",
-    "笔记/Awesome-Collections/🔖 词条/CN.md",
-    "笔记/Awesome-Collections/Software/Noteable.io.md",
-    "笔记/Awesome-Collections/Software/Synergy 鼠标键盘跨平台协同操作.md",
-    "笔记/Awesome-Collections/🤖️ AI/Bloop.ai.md",
-    "笔记/🎛️ 操作系统/🍥 Debian/为 Debian 使用的硬盘进行扩容操作.md",
-    "笔记/🎛️ 操作系统/🍥 Debian/assets/resize-disk-partition-for-debian-12-screenshot-1.png",
-    "笔记/🎛️ 操作系统/🍥 Debian/通过 Hyper-V 进入 Debian 12 LiveCD 自带的 Rescue Mode（急救模式）.md",
-    "笔记/🎛️ 操作系统/🍥 Debian/assets/enter-debian-12-rescue-mode-with-hyper-v-screenshot-9.png",
-    "笔记/🎛️ 操作系统/🍥 Debian/assets/enter-debian-12-rescue-mode-with-hyper-v-screenshot-8.png",
-    "笔记/🎛️ 操作系统/🍥 Debian/assets/enter-debian-12-rescue-mode-with-hyper-v-screenshot-7.png",
-    "笔记/🎛️ 操作系统/🍥 Debian/assets/enter-debian-12-rescue-mode-with-hyper-v-screenshot-6.png",
-    "笔记/🎛️ 操作系统/🍥 Debian/assets/enter-debian-12-rescue-mode-with-hyper-v-screenshot-5.png",
-    "笔记/🎛️ 操作系统/🍥 Debian/assets/enter-debian-12-rescue-mode-with-hyper-v-screenshot-4.png",
-    "笔记/🎛️ 操作系统/🍥 Debian/assets/enter-debian-12-rescue-mode-with-hyper-v-screenshot-3.png",
-    "笔记/🎛️ 操作系统/🍥 Debian/assets/enter-debian-12-rescue-mode-with-hyper-v-screenshot-2.png",
-    "笔记/🎛️ 操作系统/🍥 Debian/assets/enter-debian-12-rescue-mode-with-hyper-v-screenshot-15.png",
-    "笔记/Games/🎮 游戏开发/GameJam/参考资料.md",
-    "笔记/Games/🎮 游戏开发/GameJam/GameJam 2024 - Make Me Laugh.md",
-    "笔记/Games/🎮 游戏开发/GameJam",
-    "node_modules/@nolebase",
-    "笔记/🎛️ 操作系统/🍥 Debian/激活 Debian 上安装的 Nginx 的 Stream 模块来支持转发 TCP 和 UDP 请求.md",
-    "vite.config.ts.timestamp-1709004241537-182ccf7276d96.mjs",
-    "笔记/🎛️ 操作系统/🍥 Debian/修复语言错误.md",
-    "笔记/🎛️ 操作系统/🍥 Debian/apt upgrade 执行更新到一半发生了 SSH 断连但是没有 tmux 和 screen 帮助创建守护 tty，但是报错了无法获得 lock-frontend 锁的时候怎么办？.md",
-    "笔记/Infra/nv-hostengine 的启动和补充知识.md",
-    "笔记/Infra/🚢 Kubernetes/在 Kubernetes 集群上的 GPU 掉卡和故障排查.md",
-    "笔记/Infra/🚢 Kubernetes/准备 Kubernetes 节点裸金属虚拟机.md",
-    "笔记/Infra/🚢 Kubernetes/重置 Kubernetes 集群.md",
-    "笔记/🐾 Fursuit 兽装/index.md",
-    "笔记/🐾 Fursuit 兽装/不同的兽装类型.md",
-    "笔记/🐾 Fursuit 兽装",
-    "笔记/🧱 基础设施/📦 Homelab/未命名.md",
-    "笔记/Awesome-Collections/Resources/AI 资源导航.md",
-    "Notes/OSS/TrueNAS/为 TrueNAS 贡献.md",
-    "编目 Catalog/文章/Python, Go, and TypeScript - My Insights on Crafting Command Line Interfaces.md",
-    "Notes/Education",
-    "笔记/📚 学习",
-    "Notes/OSS/TrueNAS/assets",
-    "Notes/OSS/TrueNAS",
-    "Notes/OSS/WebAssembly/当前的 WASM SOTA 生态.md",
-    "Notes/OSS/WebAssembly",
-    "pnpm-lock.yaml.281114228",
+    "编目 Catalog/书籍/Mathematics for Machine Learning.md",
+    "Notes/index.md",
+    "笔记/🪄 Vtuber/给 OBS 添加 Twitch 聊天框组件并且自定义样式.md",
+    "笔记/🪄 Vtuber/在 macOS 上作为 Vtuber 进行直播.md",
+    "笔记/🪄 Vtuber/优化直播的时候 OBS 会造成 macOS 卡顿的问题.md",
+    "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-4.png",
+    "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-3.png",
+    "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-2.png",
+    "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-1.png",
+    "笔记/🪄 Vtuber/assets/live-streaming-as-a-vtuber-on-macos-screenshot-9.png",
+    "笔记/🪄 Vtuber/assets/live-streaming-as-a-vtuber-on-macos-screenshot-8.png",
+    "笔记/🪄 Vtuber/assets/live-streaming-as-a-vtuber-on-macos-screenshot-7.png",
+    "笔记/🪄 Vtuber/assets/live-streaming-as-a-vtuber-on-macos-screenshot-6.png",
+    "笔记/🪄 Vtuber/assets/live-streaming-as-a-vtuber-on-macos-screenshot-5.png",
+    "笔记/🪄 Vtuber/assets/live-streaming-as-a-vtuber-on-macos-screenshot-45.png",
+    "笔记/🪄 Vtuber/assets",
+    "笔记/🪄 Vtuber",
+    "笔记/🧱 基础设施/🚢 Kubernetes/概念/WG.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/概念/SIG.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/概念/KEP.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新/通过 apt 升级和更新 1.29.0 版本的 kubelet 和 kubectl.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新/通过 apt 升级和更新 1.29.0 版本的 kubeadm.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新/通过 apt 升级和更新 1.28.4 版本的 kubelet 和 kubectl.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新/通过 apt 升级和更新 1.28.4 版本的 kubeadm.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新/1.28.4 升级和更新到 1.29.0 的操作步骤.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新/1.28.2 升级和更新的操作步骤.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/重置 Kubernetes 集群.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/配置本地存储类 StorageClass.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/通过 Kubeadm 部署 Kubernetes 集群的时候的问题排查.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/透过 Cloudflare Access（ZTNA）安全地远程访问 Kubernetes 集群.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/用 kind 创建的测试集群快速部署应用并暴露 NodePort 服务到宿主机方便调试.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/概念",
+    "笔记/🧱 基础设施/🚢 Kubernetes/完全卸载集群内的 `kube-proxy`.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/完全卸载使用 KubeKey 安装的 Calico.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/完全卸载使用 Helm 安装的 Cilium.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/如何开发和测试 Clusterpedia.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/在 Kubernetes 集群上的 GPU 掉卡和故障排查.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/在 Kubeadm 部署的 Kubernetes 集群中安装 Cilium.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/因打开了 swap 导致的 Kubernetes 重启后无法自愈问题.md",
+    "笔记/🧱 基础设施/🚢 Kubernetes/assets",
+    "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新",
+    "笔记/🧱 基础设施/🚢 Kubernetes",
+    "笔记/🧱 基础设施/🖥 Dell 戴尔服务器/assets",
+    "笔记/🧱 基础设施/🖥 Dell 戴尔服务器",
+    "笔记/🧱 基础设施/🔍 Elastic Stack (ELK)",
+    "笔记/🧱 基础设施/📦 Homelab/assets",
     "未命名.canvas"
   ]
 }
