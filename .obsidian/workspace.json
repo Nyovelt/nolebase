@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/index.md",
+                "file": "Notes/Papers/FCA/FCA Experiment.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/index.md",
+                "file": "Notes/Papers/FCA/FCA Experiment.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/index.md"
+                "file": "Notes/Papers/FCA/FCA Experiment.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/index.md",
+                "file": "Notes/Papers/FCA/FCA Experiment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/index.md",
+                "file": "Notes/Papers/FCA/FCA Experiment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,8 +219,12 @@
   },
   "active": "42c81edb6ef96e83",
   "lastOpenFiles": [
-    "编目 Catalog/书籍/Mathematics for Machine Learning.md",
     "Notes/index.md",
+    "Notes/Papers/FCA/FCA Experiment.md",
+    "Notes/Papers/FCA",
+    "Notes/Papers",
+    "Untitled",
+    "编目 Catalog/书籍/Mathematics for Machine Learning.md",
     "笔记/🪄 Vtuber/给 OBS 添加 Twitch 聊天框组件并且自定义样式.md",
     "笔记/🪄 Vtuber/在 macOS 上作为 Vtuber 进行直播.md",
     "笔记/🪄 Vtuber/优化直播的时候 OBS 会造成 macOS 卡顿的问题.md",
@@ -257,14 +261,10 @@
     "笔记/🧱 基础设施/🚢 Kubernetes/如何开发和测试 Clusterpedia.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/在 Kubernetes 集群上的 GPU 掉卡和故障排查.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/在 Kubeadm 部署的 Kubernetes 集群中安装 Cilium.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/因打开了 swap 导致的 Kubernetes 重启后无法自愈问题.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/assets",
     "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新",
     "笔记/🧱 基础设施/🚢 Kubernetes",
     "笔记/🧱 基础设施/🖥 Dell 戴尔服务器/assets",
-    "笔记/🧱 基础设施/🖥 Dell 戴尔服务器",
-    "笔记/🧱 基础设施/🔍 Elastic Stack (ELK)",
-    "笔记/🧱 基础设施/📦 Homelab/assets",
     "未命名.canvas"
   ]
 }
