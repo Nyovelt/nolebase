@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/index.md",
+                "file": "Notes/Awesome-Collections/URLs.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#软件",
+                "query": "tag:#软件/Obsidian/插件",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
       {
         "id": "166ecf9eee3475b0",
         "type": "tabs",
-        "dimension": 31.92019950124688,
+        "dimension": 40,
         "children": [
           {
             "id": "d9c447a5c56d10b5",
@@ -94,7 +94,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -140,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,12 +150,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "00f8f8ad2cb9f9b0",
         "type": "tabs",
-        "dimension": 68.07980049875312,
+        "dimension": 60,
         "children": [
           {
             "id": "ccb7652bb733a848",
@@ -166,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,9 +213,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5dfc4e6c8287ee4",
+  "active": "dedba0695c22f869",
   "lastOpenFiles": [
     "Notes/Awesome-Collections/URLs.md",
+    "Notes/index.md",
     "🔌 知识库插件列表.md",
     "编目 Catalog/文章/Building a fully local LLM voice assistant to control my smart home - Hacker News.md",
     "编目 Catalog/书籍/Mathematics for Machine Learning.md",
@@ -230,7 +227,6 @@
     "视图/尚未编写完成的页面.md",
     "Notes/Papers/FCA/FCA Experiment.md",
     "URLs.md",
-    "Notes/index.md",
     "Notes/Papers/FCA",
     "Notes/Papers",
     "Untitled",
