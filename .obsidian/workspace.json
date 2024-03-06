@@ -15,7 +15,7 @@
               "state": {
                 "file": "Notes/Awesome-Collections/URLs.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -94,6 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Notes/Awesome-Collections/URLs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Awesome-Collections/URLs.md"
+              }
             }
           },
           {
@@ -151,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "00f8f8ad2cb9f9b0",
@@ -164,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Awesome-Collections/URLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Awesome-Collections/URLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,19 +218,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dedba0695c22f869",
+  "active": "f4647efc49d586b8",
   "lastOpenFiles": [
+    "Notes/Papers/FCA/FCA Experiment.md",
+    "视图/尚未编写完成的页面.md",
+    "视图/未添加标签的页面.md",
+    "🔌 知识库插件列表.md",
     "Notes/Awesome-Collections/URLs.md",
     "Notes/index.md",
-    "🔌 知识库插件列表.md",
     "编目 Catalog/文章/Building a fully local LLM voice assistant to control my smart home - Hacker News.md",
     "编目 Catalog/书籍/Mathematics for Machine Learning.md",
-    "视图/未添加标签的页面.md",
     "toc.md",
     "README.md",
     "index.md",
-    "视图/尚未编写完成的页面.md",
-    "Notes/Papers/FCA/FCA Experiment.md",
     "URLs.md",
     "Notes/Papers/FCA",
     "Notes/Papers",
