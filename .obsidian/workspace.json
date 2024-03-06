@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5238f13d77ee28d8",
+        "id": "1130645bced67cee",
         "type": "tabs",
         "children": [
           {
-            "id": "42c81edb6ef96e83",
+            "id": "f4647efc49d586b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Papers/FCA/FCA Experiment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29a8c14cf89d5c52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Awesome-Collections/URLs.md",
+                "file": "Notes/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#软件/Obsidian/插件/Dataview",
+                "query": "tag:#软件",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Awesome-Collections/URLs.md",
+                "file": "Notes/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Awesome-Collections/URLs.md"
+                "file": "Notes/index.md"
               }
             }
           },
@@ -180,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Awesome-Collections/URLs.md",
+                "file": "Notes/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Awesome-Collections/URLs.md",
+                "file": "Notes/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,16 +217,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29a8c14cf89d5c52",
+  "active": "b5dfc4e6c8287ee4",
   "lastOpenFiles": [
-    "Notes/Papers/FCA/FCA Experiment.md",
     "Notes/Awesome-Collections/URLs.md",
+    "🔌 知识库插件列表.md",
+    "编目 Catalog/文章/Building a fully local LLM voice assistant to control my smart home - Hacker News.md",
+    "编目 Catalog/书籍/Mathematics for Machine Learning.md",
+    "视图/未添加标签的页面.md",
+    "toc.md",
+    "README.md",
+    "index.md",
+    "视图/尚未编写完成的页面.md",
+    "Notes/Papers/FCA/FCA Experiment.md",
     "URLs.md",
     "Notes/index.md",
     "Notes/Papers/FCA",
     "Notes/Papers",
     "Untitled",
-    "编目 Catalog/书籍/Mathematics for Machine Learning.md",
     "笔记/🪄 Vtuber/给 OBS 添加 Twitch 聊天框组件并且自定义样式.md",
     "笔记/🪄 Vtuber/在 macOS 上作为 Vtuber 进行直播.md",
     "笔记/🪄 Vtuber/优化直播的时候 OBS 会造成 macOS 卡顿的问题.md",
@@ -267,14 +260,7 @@
     "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新/1.28.2 升级和更新的操作步骤.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/重置 Kubernetes 集群.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/配置本地存储类 StorageClass.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/通过 Kubeadm 部署 Kubernetes 集群的时候的问题排查.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/透过 Cloudflare Access（ZTNA）安全地远程访问 Kubernetes 集群.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/用 kind 创建的测试集群快速部署应用并暴露 NodePort 服务到宿主机方便调试.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/概念",
-    "笔记/🧱 基础设施/🚢 Kubernetes/完全卸载集群内的 `kube-proxy`.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/完全卸载使用 KubeKey 安装的 Calico.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/完全卸载使用 Helm 安装的 Cilium.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/如何开发和测试 Clusterpedia.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/assets",
     "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新",
     "笔记/🧱 基础设施/🚢 Kubernetes",
