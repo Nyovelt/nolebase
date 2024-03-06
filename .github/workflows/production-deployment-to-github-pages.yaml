@@ -6,6 +6,8 @@ on:
       - 'main'
   workflow_dispatch:
 
+
+
 env:
   STORE_PATH: ''
 
@@ -60,7 +62,7 @@ jobs:
   #       run: pnpm docs:build
   build:
     name: Ubuntu 构建和推送
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     environment:
       name: 正式 Production
       url: https://nolebase.aaaab3n.moe
