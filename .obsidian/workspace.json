@@ -11,12 +11,8 @@
             "id": "f4647efc49d586b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Awesome-Collections/URLs.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Awesome-Collections/URLs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -140,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Awesome-Collections/URLs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Awesome-Collections/URLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Awesome-Collections/URLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,11 +211,13 @@
   },
   "active": "f4647efc49d586b8",
   "lastOpenFiles": [
-    "Notes/Papers/FCA/FCA Experiment.md",
+    "Notes/Awesome-Collections/URLs.md",
+    "Notes/Papers/LLM",
+    "Untitled 1",
+    "Notes/Projects/FCA/FCA Experiment.md",
     "视图/尚未编写完成的页面.md",
     "视图/未添加标签的页面.md",
     "🔌 知识库插件列表.md",
-    "Notes/Awesome-Collections/URLs.md",
     "Notes/index.md",
     "编目 Catalog/文章/Building a fully local LLM voice assistant to control my smart home - Hacker News.md",
     "编目 Catalog/书籍/Mathematics for Machine Learning.md",
@@ -232,7 +225,7 @@
     "README.md",
     "index.md",
     "URLs.md",
-    "Notes/Papers/FCA",
+    "Notes/Projects/FCA",
     "Notes/Papers",
     "Untitled",
     "笔记/🪄 Vtuber/给 OBS 添加 Twitch 聊天框组件并且自定义样式.md",
@@ -260,12 +253,9 @@
     "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新/1.28.4 升级和更新到 1.29.0 的操作步骤.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新/1.28.2 升级和更新的操作步骤.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/重置 Kubernetes 集群.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/配置本地存储类 StorageClass.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/概念",
     "笔记/🧱 基础设施/🚢 Kubernetes/assets",
     "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新",
-    "笔记/🧱 基础设施/🚢 Kubernetes",
-    "笔记/🧱 基础设施/🖥 Dell 戴尔服务器/assets",
     "未命名.canvas"
   ]
 }
