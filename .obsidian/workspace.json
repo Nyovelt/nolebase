@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1130645bced67cee",
+        "id": "08c3186c20bce942",
         "type": "tabs",
         "children": [
           {
-            "id": "f4647efc49d586b8",
+            "id": "07b441c80f01f190",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Projects/FCA/FCA-bug5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55b44aee637a9b3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Cookbooks/Cloud/Minikube on Ubuntu.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#软件/Obsidian/插件",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5
+    "width": 200
   },
   "right": {
     "id": "246bd0838f8f40a6",
@@ -90,6 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Notes/Projects/FCA/FCA-bug5.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -135,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Projects/FCA/FCA-bug5.md"
+              }
             }
           },
           {
@@ -160,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Projects/FCA/FCA-bug5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Projects/FCA/FCA-bug5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,25 +230,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4647efc49d586b8",
+  "active": "07b441c80f01f190",
   "lastOpenFiles": [
-    "Notes/Awesome-Collections/URLs.md",
-    "Notes/Papers/LLM",
-    "Untitled 1",
-    "Notes/Projects/FCA/FCA Experiment.md",
-    "视图/尚未编写完成的页面.md",
-    "视图/未添加标签的页面.md",
-    "🔌 知识库插件列表.md",
-    "Notes/index.md",
-    "编目 Catalog/文章/Building a fully local LLM voice assistant to control my smart home - Hacker News.md",
-    "编目 Catalog/书籍/Mathematics for Machine Learning.md",
-    "toc.md",
-    "README.md",
-    "index.md",
     "URLs.md",
-    "Notes/Projects/FCA",
-    "Notes/Papers",
-    "Untitled",
+    "Notes/index.md",
+    "Notes/Projects/FCA/FCA Experiment.md",
+    "Notes/Awesome-Collections/URLs.md",
+    "Notes/Awesome-Collections",
+    "视图/未添加标签的页面.md",
+    "视图/尚未编写完成的页面.md",
+    "视图",
+    "编目 Catalog/视频/高中生就能看懂的群论，如何从对称性构建出群，群论01：什么是群 - 哔哩哔哩 bilibili.md",
+    "编目 Catalog/视频/如何选取 RAG 中的 embedding 模型 - 哔哩哔哩 bilibili.md",
+    "编目 Catalog/视频/【122集付费！】CNN、RNN、GAN、GNN、DQN、Transformer、LSTM等八大深度学习神经网络一口气全部学完！比刷剧还爽！ - 哔哩哔哩 bilibili.md",
+    "编目 Catalog/视频/transformers 源码阅读——图解 mixtral 模型——图解 MoE 细节 - 哔哩哔哩 bilibili.md",
+    "编目 Catalog/文章/面向人力资源的 GitHub 指南 - 夜天之书.md",
+    "编目 Catalog/文章/开一家自己的出版社，再出一本自己写的书 - 少数派.md",
+    "编目 Catalog/文章/在 Go 语言 14 年的发展历史中，我们做得对的和不对的.md",
+    "编目 Catalog/文章/The Open Source Sustainability Crisis.md",
+    "编目 Catalog/文章/The Engineering behind Figma's Vector Networks.md",
+    "编目 Catalog/文章/Python, Go, and TypeScript - My Insights on Crafting Command Line Interfaces.md",
+    "编目 Catalog/文章/Displaying content as a graph - An exploration - This is important.md",
+    "编目 Catalog/文章/Building a fully local LLM voice assistant to control my smart home - Hacker News.md",
+    "编目 Catalog/书籍/礼物 - 礼物经济.md",
+    "编目 Catalog/书籍/焦慮使用說明書.md",
+    "编目 Catalog/书籍/人月神话.md",
+    "编目 Catalog/书籍/Mathematics for Machine Learning.md",
+    "编目 Catalog/视频",
+    "编目 Catalog/文章",
+    "编目 Catalog/书籍",
+    "编目 Catalog",
     "笔记/🪄 Vtuber/给 OBS 添加 Twitch 聊天框组件并且自定义样式.md",
     "笔记/🪄 Vtuber/在 macOS 上作为 Vtuber 进行直播.md",
     "笔记/🪄 Vtuber/优化直播的时候 OBS 会造成 macOS 卡顿的问题.md",
@@ -243,19 +275,11 @@
     "笔记/🪄 Vtuber/assets/live-streaming-as-a-vtuber-on-macos-screenshot-45.png",
     "笔记/🪄 Vtuber/assets",
     "笔记/🪄 Vtuber",
-    "笔记/🧱 基础设施/🚢 Kubernetes/概念/WG.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/概念/SIG.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/概念/KEP.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新/通过 apt 升级和更新 1.29.0 版本的 kubelet 和 kubectl.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新/通过 apt 升级和更新 1.29.0 版本的 kubeadm.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新/通过 apt 升级和更新 1.28.4 版本的 kubelet 和 kubectl.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新/通过 apt 升级和更新 1.28.4 版本的 kubeadm.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新/1.28.4 升级和更新到 1.29.0 的操作步骤.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新/1.28.2 升级和更新的操作步骤.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/重置 Kubernetes 集群.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/概念",
     "笔记/🧱 基础设施/🚢 Kubernetes/assets",
-    "笔记/🧱 基础设施/🚢 Kubernetes/Kubernetes 集群的日常升级和更新",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "未命名.canvas"
   ]
 }
