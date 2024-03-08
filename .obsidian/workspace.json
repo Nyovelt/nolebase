@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Projects/FCA/FCA-bug5.md",
+                "file": "Notes/Road to LLM/huggingface.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Projects/FCA/FCA-bug5.md",
+                "file": "Notes/Road to LLM/huggingface.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Projects/FCA/FCA-bug5.md"
+                "file": "Notes/Road to LLM/huggingface.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Projects/FCA/FCA-bug5.md",
+                "file": "Notes/Road to LLM/huggingface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Projects/FCA/FCA-bug5.md",
+                "file": "Notes/Road to LLM/huggingface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,6 +232,10 @@
   },
   "active": "07b441c80f01f190",
   "lastOpenFiles": [
+    "Notes/Papers/LLM/QLORA.md",
+    "Notes/Road to LLM/huggingface.md",
+    "Notes/Projects/FCA/FCA-bug5.md",
+    "Notes/Cookbooks/Cloud/Minikube on Ubuntu.md",
     "URLs.md",
     "Notes/index.md",
     "Notes/Projects/FCA/FCA Experiment.md",
@@ -260,9 +264,6 @@
     "编目 Catalog/文章",
     "编目 Catalog/书籍",
     "编目 Catalog",
-    "笔记/🪄 Vtuber/给 OBS 添加 Twitch 聊天框组件并且自定义样式.md",
-    "笔记/🪄 Vtuber/在 macOS 上作为 Vtuber 进行直播.md",
-    "笔记/🪄 Vtuber/优化直播的时候 OBS 会造成 macOS 卡顿的问题.md",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-4.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-3.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-2.png",
@@ -275,7 +276,6 @@
     "笔记/🪄 Vtuber/assets/live-streaming-as-a-vtuber-on-macos-screenshot-45.png",
     "笔记/🪄 Vtuber/assets",
     "笔记/🪄 Vtuber",
-    "笔记/🧱 基础设施/🚢 Kubernetes/重置 Kubernetes 集群.md",
     "笔记/🧱 基础设施/🚢 Kubernetes/概念",
     "笔记/🧱 基础设施/🚢 Kubernetes/assets",
     "Untitled 1.canvas",
