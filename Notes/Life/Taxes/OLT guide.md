@@ -8,6 +8,7 @@ tags:
 # OLT Guide
 OLT.com, short for OnLine Taxes, is an IRS-authorized e-file provider offering tax preparation software.
 I use OLT because I am **NRA** and it can **e-file**.
+
 ## What form should I choose
 > form **1040-_NR_** is used by nonresident alien individuals, estates, and trusts to file a U.S. income tax return.
 
@@ -30,15 +31,19 @@ There are two scenarios:
 After filling W-2, Done with W-2, Choose **exempt under treaty**. First, fill Schedule OI. Next, choose No for "Do you have wages on W-2 box 1 that is already reduced by the tax treaty exemption"
 
 
-
 ![](https://webresources.aaaab3n.moe/share/SCR-20240320-ovcc.png)
+
 Press "Click Here"
+
 ![](https://webresources.aaaab3n.moe/share/1040nr.png)
+
 2. You got W-2 (without withhold of $5000) and a 1040-S
 	Complete your W-2 as normal, but for the 1042-S should be completed with a **statement of exempt under treaty**, followed by a statement of $5,000 in 1040NR OI, with an article code of 20(c).
 ## Fidelity - 1099-DIV
 ![](https://webresources.aaaab3n.moe/share/Fidelity1099DIV.png)
+
 - SSN can be used for TIN (Tax Identification Number)
+
 > A flat tax of 30 percent (or lower treaty) rate is imposed on U.S. source capital gains in the hands of nonresident alien individuals present in the United States for 183 days or more during the taxable year. This 183-day rule bears no relation to the 183-day rule under the substantial presence test of IRC section 7701(b)(3). This rule applies even if any of the transactions occurred while you were not in the United States.
 
 ![](https://webresources.aaaab3n.moe/share/7701b3.png)
