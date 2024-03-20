@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Road to LLM/huggingface.md",
+                "file": "Notes/Awesome-Collections/URLs.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Cookbooks/Cloud/Minikube on Ubuntu.md",
+                "file": "Notes/Life/Taxes/OLT guide.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Road to LLM/huggingface.md",
+                "file": "Notes/Life/Taxes/OLT guide.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Road to LLM/huggingface.md"
+                "file": "Notes/Life/Taxes/OLT guide.md"
               }
             }
           },
@@ -179,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Road to LLM/huggingface.md",
+                "file": "Notes/Life/Taxes/OLT guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Road to LLM/huggingface.md",
+                "file": "Notes/Life/Taxes/OLT guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,16 +231,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07b441c80f01f190",
+  "active": "55b44aee637a9b3a",
   "lastOpenFiles": [
-    "Notes/Papers/LLM/QLORA.md",
-    "Notes/Road to LLM/huggingface.md",
-    "Notes/Projects/FCA/FCA-bug5.md",
+    "w2taxexempt.png",
+    "Pasted image 20240320002332.png",
+    "Notes/Life/Taxes/OLT guide.md",
     "Notes/Cookbooks/Cloud/Minikube on Ubuntu.md",
+    "Notes/Life/Taxes",
+    "Notes/Awesome-Collections/URLs.md",
+    "Notes/Road to LLM/huggingface.md",
+    "Notes/Papers/LLM/QLORA.md",
+    "Notes/Projects/FCA/FCA-bug5.md",
     "URLs.md",
     "Notes/index.md",
     "Notes/Projects/FCA/FCA Experiment.md",
-    "Notes/Awesome-Collections/URLs.md",
     "Notes/Awesome-Collections",
     "视图/未添加标签的页面.md",
     "视图/尚未编写完成的页面.md",
@@ -258,8 +263,6 @@
     "编目 Catalog/文章/Building a fully local LLM voice assistant to control my smart home - Hacker News.md",
     "编目 Catalog/书籍/礼物 - 礼物经济.md",
     "编目 Catalog/书籍/焦慮使用說明書.md",
-    "编目 Catalog/书籍/人月神话.md",
-    "编目 Catalog/书籍/Mathematics for Machine Learning.md",
     "编目 Catalog/视频",
     "编目 Catalog/文章",
     "编目 Catalog/书籍",
@@ -273,11 +276,9 @@
     "笔记/🪄 Vtuber/assets/live-streaming-as-a-vtuber-on-macos-screenshot-7.png",
     "笔记/🪄 Vtuber/assets/live-streaming-as-a-vtuber-on-macos-screenshot-6.png",
     "笔记/🪄 Vtuber/assets/live-streaming-as-a-vtuber-on-macos-screenshot-5.png",
-    "笔记/🪄 Vtuber/assets/live-streaming-as-a-vtuber-on-macos-screenshot-45.png",
     "笔记/🪄 Vtuber/assets",
     "笔记/🪄 Vtuber",
     "笔记/🧱 基础设施/🚢 Kubernetes/概念",
-    "笔记/🧱 基础设施/🚢 Kubernetes/assets",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "未命名.canvas"
