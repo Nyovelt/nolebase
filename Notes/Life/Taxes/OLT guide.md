@@ -46,7 +46,8 @@ Press "Click Here"
 
 > A flat tax of 30 percent (or lower treaty) rate is imposed on U.S. source capital gains in the hands of nonresident alien individuals present in the United States for 183 days or more during the taxable year. This 183-day rule bears no relation to the 183-day rule under the substantial presence test of IRC section 7701(b)(3). This rule applies even if any of the transactions occurred while you were not in the United States.
 
-![](https://webresources.aaaab3n.moe/share/7701b3.png)
+<!-- ![](https://webresources.aaaab3n.moe/share/7701b3.png) -->
+
 - In this case, since I didn't stay for 183-day in US during 2023, the tax rate is 0% for me (And likely to be 30% for 2024). (Update: cannot find source, I still apply 30% tax rate).
 - Reminder [this](https://www.uscardforum.com/t/topic/227991), Fidelity's SPAXX investment has about 30% is for the US government obligations. 
 - Remember to put the same amount in the state tax section as well (except for CA and NY, they don't deduct)
