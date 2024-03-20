@@ -24,7 +24,7 @@ The benefit of filing form 8840: Less tax liability and simpler tax filings. It 
 You will receive a form from your university. Fill it in. 
 
 Do not forget **treaty article 20(c)**. Pay attention to your wages. 
-There are two senarios:
+There are two scenarios:
 
 1. You only got a W-2 (NC State did)
 After filling W-2, Done with W-2, Choose **exempt under treaty**. First, fill Schedule OI. Next, choose No for "Do you have wages on W-2 box 1 that is already reduced by the tax treaty exemption"
@@ -50,7 +50,7 @@ Press "Click Here"
 If you submit Form W-8BEN that indicate that you are a NRA, to your bank or investment institution, you should receive Form 1042-S. (I received it from Chase.) Or, you will get 1099-INT. (I got it from Fidelity). 
 
 ### 1099-INT
-Don't fill, attached with efile.
+Don't fill, attach it.
 ### 1042-S
 Just fill. Choose Code 10 (Interest) for SCHEDULE OI.
 ![](https://webresources.aaaab3n.moe/share/SCR-20240320-pawj.png)
