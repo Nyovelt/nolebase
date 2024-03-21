@@ -6,7 +6,7 @@ tags:
   - OLT
 ---
 # OLT Guide
-OLT.com, short for OnLine Taxes, is an IRS-authorized e-file provider offering tax preparation software.
+_OLT.com, short for OnLine Taxes, is an IRS-authorized e-file provider offering tax preparation software._
 
 I use OLT because I am **NRA** and ~~it can **e-file**~~. (It eventually turns out that I still need to deliver tax forms by mail)
 
