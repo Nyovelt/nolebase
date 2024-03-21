@@ -21,3 +21,51 @@ Filing Form 8840 can significantly reduce your tax liability and simplify your t
 If you're here on an **F**, **J**, M, or Q visa, filing Form 8843 is crucial. It exempts you from the Substantial Presence Test, potentially altering your tax status.
 
 As a student, I filled both 8840 and 8843.
+
+#### Enter the number of days in 2023 you claim you can exclude for purposes of the substantial presence test
+As an F-1 student, you'll likely exclude all days present in the U.S. during the year from the Substantial Presence Test.
+
+## Reporting Income
+### W-2 Forms
+Your university will provide a W-2 form. Remember to apply treaty article 20(c) to your wages. The process changes slightly depending on whether you received only a W-2 or also a 1042-S.
+
+
+1. You only received a W-2 (that's what NC State University did)
+After done with W-2, Choose **exempt under treaty**. First, fill Schedule OI. Then, choose **No** for "Do you have wages on W-2 box 1 that is already reduced by the tax treaty exemption"
+
+
+![](https://webresources.aaaab3n.moe/share/SCR-20240320-ovcc.png)
+
+Press "Click Here"
+
+![](https://webresources.aaaab3n.moe/share/1040nr.png)
+
+2. You got W-2 (without a withhold of $5000) and a 1040-S
+Complete your W-2 as normal, but for the 1042-S should be completed with a **statement of exempt under treaty**, followed by a statement of $5,000 in 1040NR OI, with an article code of 20(c).
+### Dividends and Interest
+For dividends (reported on Form 1099-DIV) and interest, nonresident aliens face a default 30% tax rate, subject to reductions under tax treaties. 
+#### Fidelity - 1099-DIV
+![](https://webresources.aaaab3n.moe/share/Fidelity1099DIV.png)
+
+- SSN can be used for TIN (Tax Identification Number)
+- A flat tax of 30 percent (or lower treaty) rate is imposed on U.S.
+
+![](https://webresources.aaaab3n.moe/share/7701b3.png)
+
+
+- Reminder [this](https://www.uscardforum.com/t/topic/227991), Fidelity's SPAXX investment has about 30% is for the US government investment. 
+- Remember to put the same amount in the** state tax section** as well (except for CA and NY)
+![](https://webresources.aaaab3n.moe/share/spaxx-30.png)
+
+## 1099-INT and 1042-S
+If you submit Form W-8BEN that indicate that you are a NRA, to your bank or investment institution, you should receive Form 1042-S. (I received it from Chase.) Or, you will get 1099-INT. (I got it from Fidelity). 
+
+### 1099-INT
+Attach it at the end.
+### 1042-S
+Choose Code 10 (Interest) for SCHEDULE OI.
+![](https://webresources.aaaab3n.moe/share/SCR-20240320-pawj.png)
+
+### 1040NR - SCHEDULE OI
+Choose "YES" for "Were you subject to tax in foreign country on any of the income show above"
+![](https://webresources.aaaab3n.moe/share/SCR-20240320-ovcc.png)
