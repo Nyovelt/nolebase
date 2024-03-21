@@ -77,6 +77,10 @@ For those interested in clean vehicle credits.
 2. **Search** form 8936 and Start
 3. fill form **8936** Qualified Plug-in Electric Drive Motor Vehicle Credit|
 
+## Final Reminder
+**Don't play with it**
+
+> Individuals may be fined up to $100,000 for filing a false return in addition to being sentenced to prison for **up to three years**
 ## Reference and Useful Links
 https://www.uscardforum.com/t/topic/147110
 https://www.luweicky.com/2021/03/oltefile-1040nr8843 (Recommend)
