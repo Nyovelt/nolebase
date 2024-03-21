@@ -21,10 +21,10 @@ export default defineConfig(async () => {
       }),
       GitChangelogMarkdownSection({
         getChangelogTitle: (): string => {
-          return '文件历史'
+          return 'Changelog'
         },
         getContributorsTitle: (): string => {
-          return '贡献者'
+          return 'Contributor'
         },
         excludes: [],
         exclude: (_, { helpers }): boolean => {
