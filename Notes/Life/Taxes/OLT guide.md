@@ -69,3 +69,15 @@ Choose Code 10 (Interest) for SCHEDULE OI.
 ### 1040NR SCHEDULE OI
 Choose "YES" for "Were you subject to tax in foreign country on any of the income show above"
 ![](https://webresources.aaaab3n.moe/share/SCR-20240320-ovcc.png)
+
+## Tesla Clean Vehicle Credit
+For those interested in clean vehicle credits.
+
+1. go to https://www.tesla.com/support/ira-clean-vehicle-report/2023 to generate IRS form 15400
+2. **Search** form 8936 and Start
+3. fill form **8936** Qualified Plug-in Electric Drive Motor Vehicle Credit|
+
+## Reference and Useful Links
+https://www.uscardforum.com/t/topic/147110
+https://www.luweicky.com/2021/03/oltefile-1040nr8843 (Recommend)
+https://www.uscardforum.com/t/topic/25911
