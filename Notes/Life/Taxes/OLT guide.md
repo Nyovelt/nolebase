@@ -44,7 +44,7 @@ Press "Click Here"
 Complete your W-2 as normal, but for the 1042-S should be completed with a **statement of exempt under treaty**, followed by a statement of $5,000 in 1040NR OI, with an article code of 20(c).
 ### Dividends and Interest
 For dividends (reported on Form 1099-DIV) and interest, nonresident aliens face a default 30% tax rate, subject to reductions under tax treaties. 
-#### Fidelity - 1099-DIV
+#### 1099DIV
 ![](https://webresources.aaaab3n.moe/share/Fidelity1099DIV.png)
 
 - SSN can be used for TIN (Tax Identification Number)
@@ -57,15 +57,15 @@ For dividends (reported on Form 1099-DIV) and interest, nonresident aliens face 
 - Remember to put the same amount in the** state tax section** as well (except for CA and NY)
 ![](https://webresources.aaaab3n.moe/share/spaxx-30.png)
 
-## 1099-INT and 1042-S
+## 1099INT and 1042S
 If you submit Form W-8BEN that indicate that you are a NRA, to your bank or investment institution, you should receive Form 1042-S. (I received it from Chase.) Or, you will get 1099-INT. (I got it from Fidelity). 
 
-### 1099-INT
+### 1099INT
 Attach it at the end.
-### 1042-S
+### 1042S
 Choose Code 10 (Interest) for SCHEDULE OI.
 ![](https://webresources.aaaab3n.moe/share/SCR-20240320-pawj.png)
 
-### 1040NR - SCHEDULE OI
+### 1040NR SCHEDULE OI
 Choose "YES" for "Were you subject to tax in foreign country on any of the income show above"
 ![](https://webresources.aaaab3n.moe/share/SCR-20240320-ovcc.png)
