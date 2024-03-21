@@ -6,7 +6,7 @@ tags:
   - OLT
 ---
 # OLT Guide
-_OLT.com, short for OnLine Taxes, is an IRS-authorized e-file provider offering tax preparation software._
+OLT.com, short for OnLine Taxes, is an IRS-authorized e-file provider offering tax preparation software.
 
 As a non-resident alien (NRA) navigating U.S. taxes, I've found OLT.com to be an invaluable resource. OLT.com offers IRS-authorized e-filing options tailored for NRAs like myself. While I initially hoped for a completely electronic filing process, I discovered I still needed to mail in my tax forms, a minor hiccup in an otherwise smooth experience.
 
@@ -40,7 +40,6 @@ Press "Click Here"
 ![](https://webresources.aaaab3n.moe/share/1040nr.png)
 
 2. You got W-2 (without a withhold of $5000) and a 1040-S
-   
 Complete your W-2 as normal, but for the 1042-S should be completed with a **statement of exempt under treaty**, followed by a statement of $5,000 in 1040NR OI, with an article code of 20(c).
 ### Dividends and Interest
 For dividends (reported on Form 1099-DIV) and interest, nonresident aliens face a default 30% tax rate, subject to reductions under tax treaties. 
@@ -49,7 +48,7 @@ For dividends (reported on Form 1099-DIV) and interest, nonresident aliens face 
 
 - SSN can be used for TIN (Tax Identification Number)
 - A flat tax of 30 percent (or lower treaty) rate is imposed on U.S.
- 
+
 ![](https://webresources.aaaab3n.moe/share/7701b3.png)
 
 
