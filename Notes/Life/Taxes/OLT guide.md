@@ -12,3 +12,12 @@ As a non-resident alien (NRA) navigating U.S. taxes, I've found OLT.com to be an
 
 ## Choosing the Right Form
 Nonresident alien individuals, estates, and trusts should turn to **Form 1040-NR** for U.S. income tax filings. This form accommodates the unique aspects of our tax obligations.
+
+## Key Considerations for NRAs
+
+### Do you want to file Form 8840?
+Filing Form 8840 can significantly reduce your tax liability and simplify your tax filings by asserting a closer connection to a foreign country than to the U.S., indicating no migration intentions.
+### Do you want to file Form 8843?
+If you're here on an **F**, **J**, M, or Q visa, filing Form 8843 is crucial. It exempts you from the Substantial Presence Test, potentially altering your tax status.
+
+As a student, I filled both 8840 and 8843.
