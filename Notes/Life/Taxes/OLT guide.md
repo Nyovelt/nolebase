@@ -11,26 +11,28 @@ OLT.com, short for OnLine Taxes, is an IRS-authorized e-file provider offering t
 I use OLT because I am **NRA** and ~~it can **e-file**~~. (It eventually turns out that I still need to deliver tax forms by mail)
 
 ## What form should I choose
-form 1040-NR is used by nonresident alien individuals, estates, and trusts to file a U.S. income tax return.
+_Form 1040-NR is used by nonresident alien individuals, estates, and trusts to file a U.S. income tax return._
 
 ## Personal Info
 ### Do you want to file Form 8840?
-The benefit of filing form 8840: Less tax liability and simpler tax filings. It may indicate you do not have any intention for migration.
+_The benefit of filing form 8840: Less tax liability and simpler tax filings. It may indicate you do not have any intention for migration._
 ### Do you want to file Form 8843?
-**If you are a student** on an F, J, M, or Q visa, and you are in the U.S. for any part of the year, you need to file Form 8843 to claim your exemption from the Substantial Presence Test.
+_**If you are a student** on an F, J, M, or Q visa, and you are in the U.S. for any part of the year, you need to file Form 8843 to claim your exemption from the Substantial Presence Test._
 
 #### Enter the number of days in 2023 you claim you can exclude for purposes of the substantial presence test
-As an F-1 student, you would typically exclude all the days you were present in the U.S. during the year.
+_As an F-1 student, you would typically exclude all the days you were present in the U.S. during the year._
 
 
 ## W-2
 You will receive a form from your university. Fill it in. 
 
 Do not forget **treaty article 20(c)**. Pay attention to your wages. 
+
+
 There are two scenarios:
 
 1. You only got a W-2 (NC State did)
-After filling W-2, Done with W-2, Choose **exempt under treaty**. First, fill Schedule OI. Next, choose No for "Do you have wages on W-2 box 1 that is already reduced by the tax treaty exemption"
+After filling W-2, Done with W-2, Choose **exempt under treaty**. First, fill Schedule OI. Then, choose **No** for "Do you have wages on W-2 box 1 that is already reduced by the tax treaty exemption"
 
 
 ![](https://webresources.aaaab3n.moe/share/SCR-20240320-ovcc.png)
@@ -50,7 +52,7 @@ A flat tax of 30 percent (or lower treaty) rate is imposed on U.S. source capita
 
 <!-- ![](https://webresources.aaaab3n.moe/share/7701b3.png) -->
 
-- In this case, since I didn't stay for 183-day in US during 2023, the tax rate is 0% for me (And likely to be 30% for 2024). (Update: cannot find source, I still apply 30% tax rate).
+- ~~In this case, since I didn't stay for 183-day in US during 2023, the tax rate is 0% for me (And likely to be 30% for 2024).~~ (Update: cannot find source, I still apply 30% tax rate).
 - Reminder [this](https://www.uscardforum.com/t/topic/227991), Fidelity's SPAXX investment has about 30% is for the US government obligations. 
 - Remember to put the same amount in the state tax section as well (except for CA and NY, they don't deduct)
 ![](https://webresources.aaaab3n.moe/share/spaxx-30.png)
