@@ -54,7 +54,7 @@ For dividends (reported on Form 1099-DIV) and interest, nonresident aliens face 
 
 
 - Reminder [this](https://www.uscardforum.com/t/topic/227991), Fidelity's SPAXX investment has about 30% is for the US government investment. 
-- Remember to put the same amount in the state tax section as well (except for CA and NY)
+- Remember to put the same amount in the** state tax section** as well (except for CA and NY)
 ![](https://webresources.aaaab3n.moe/share/spaxx-30.png)
 
 ## 1099-INT and 1042-S
