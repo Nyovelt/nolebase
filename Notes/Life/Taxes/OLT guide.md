@@ -7,7 +7,8 @@ tags:
 ---
 # OLT Guide
 OLT.com, short for OnLine Taxes, is an IRS-authorized e-file provider offering tax preparation software.
-I use OLT because I am **NRA** and it can **e-file**.
+
+I use OLT because I am **NRA** and ~~it can **e-file**~~. (It eventually turns out that I still need to deliver tax forms by mail)
 
 ## What form should I choose
 form 1040-NR is used by nonresident alien individuals, estates, and trusts to file a U.S. income tax return.
