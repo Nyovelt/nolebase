@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Projects/FCA/FCA-bug5.md",
+                "file": "Notes/Papers/LLM/Transformer.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Projects/FCA/FCA-bug5.md",
+                "file": "Notes/Papers/LLM/Transformer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Projects/FCA/FCA-bug5.md"
+                "file": "Notes/Papers/LLM/Transformer.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Projects/FCA/FCA-bug5.md",
+                "file": "Notes/Papers/LLM/Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Projects/FCA/FCA-bug5.md",
+                "file": "Notes/Papers/LLM/Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,8 +233,9 @@
   },
   "active": "55b44aee637a9b3a",
   "lastOpenFiles": [
-    "Notes/Life/Taxes/OLT guide.md",
+    "Notes/Papers/LLM/Quantization for LLM.md",
     "Notes/Projects/FCA/FCA-bug5.md",
+    "Notes/Life/Taxes/OLT guide.md",
     "Notes/Projects/FCA/FCA Experiment.md",
     "Notes/Cookbooks/Ultility/Poetry.md",
     "Notes/Papers/LLM/Transformer.md",
@@ -248,7 +249,6 @@
     "node_modules/@unocss",
     "node_modules/@stylistic",
     "node_modules/@typescript-eslint",
-    "Notes/Papers/LLM/Quantization for LLM.md",
     "Notes/Awesome-Collections/URLs.md",
     "w2taxexempt.png",
     "Pasted image 20240320002332.png",
