@@ -1,6 +1,6 @@
-# 目录
+# Latest
 
-排序方式：`最近更新`
+Order by：`Updated time`
 
 ---
 
