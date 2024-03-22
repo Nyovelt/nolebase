@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Papers/LLM/Transformer.md",
+                "file": "Notes/Projects/FCA/FCA-bug5.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Papers/LLM/Transformer.md",
+                "file": "Notes/Projects/FCA/FCA-bug5.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Papers/LLM/Transformer.md"
+                "file": "Notes/Projects/FCA/FCA-bug5.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Papers/LLM/Transformer.md",
+                "file": "Notes/Projects/FCA/FCA-bug5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Papers/LLM/Transformer.md",
+                "file": "Notes/Projects/FCA/FCA-bug5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,6 +233,12 @@
   },
   "active": "55b44aee637a9b3a",
   "lastOpenFiles": [
+    "Notes/Life/Taxes/OLT guide.md",
+    "Notes/Projects/FCA/FCA-bug5.md",
+    "Notes/Projects/FCA/FCA Experiment.md",
+    "Notes/Cookbooks/Ultility/Poetry.md",
+    "Notes/Papers/LLM/Transformer.md",
+    "Notes/Cookbooks/Ultility",
     "node_modules/@vueuse",
     "node_modules/@nolebase",
     "node_modules/@netlify",
@@ -242,20 +248,14 @@
     "node_modules/@unocss",
     "node_modules/@stylistic",
     "node_modules/@typescript-eslint",
-    "node_modules/@eslint-types",
-    "node_modules/@antfu",
     "Notes/Papers/LLM/Quantization for LLM.md",
-    "Notes/Papers/LLM/Transformer.md",
-    "Notes/Life/Taxes/OLT guide.md",
     "Notes/Awesome-Collections/URLs.md",
     "w2taxexempt.png",
     "Pasted image 20240320002332.png",
     "Notes/Cookbooks/Cloud/Minikube on Ubuntu.md",
     "Notes/Road to LLM/huggingface.md",
-    "Notes/Projects/FCA/FCA-bug5.md",
     "URLs.md",
     "Notes/index.md",
-    "Notes/Projects/FCA/FCA Experiment.md",
     "视图/未添加标签的页面.md",
     "视图/尚未编写完成的页面.md",
     "编目 Catalog/视频/高中生就能看懂的群论，如何从对称性构建出群，群论01：什么是群 - 哔哩哔哩 bilibili.md",

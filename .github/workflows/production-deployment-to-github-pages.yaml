@@ -107,6 +107,9 @@ jobs:
       - name: 构建
         run: pnpm docs:build
 
+      - name: 绕过 GitHub Pages 的 Jekyll
+        run: touch .vitepress/dist/.nojekyll
+        
       - name: 推送到 gh-pages 分支
         timeout-minutes: 10
         with:
