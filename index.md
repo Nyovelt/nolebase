@@ -15,10 +15,10 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /笔记/index
+      link: /Notes/index
     - theme: alt
       text: GitHub 上浏览
-      link: https://github.com/nolebase/nolebase
+      link: https://github.com/nyovelt/nolebase
 
 features:
   - title: 多样的主题和内容

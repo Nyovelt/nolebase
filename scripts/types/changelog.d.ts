@@ -4,4 +4,3 @@ export interface ContributorInfo {
   avatarUrl?: string
   url?: string
 }
-

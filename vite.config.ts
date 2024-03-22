@@ -7,6 +7,9 @@ import { PageProperties, PagePropertiesMarkdownSection } from '@nolebase/vitepre
 export default defineConfig(async () => {
   return {
     assetsInclude: ['**/*.mov'],
+    define: {
+      __VUE_PROD_HYDRATION_MISMATCH_DETAILS__: true,
+    },
     optimizeDeps: {
       // vitepress is aliased with replacement `join(DIST_CLIENT_PATH, '/index')`
       // This needs to be excluded from optimization
@@ -16,8 +19,8 @@ export default defineConfig(async () => {
     },
     plugins: [
       GitChangelog({
-        repoURL: () => 'https://github.com/nolebase/nolebase',
-        maxGitLogCount: 1000,
+        repoURL: () => 'https://github.com/Nyovelt/nolebase',
+        maxGitLogCount: 4000,
       }),
       GitChangelogMarkdownSection({
         getChangelogTitle: (): string => {

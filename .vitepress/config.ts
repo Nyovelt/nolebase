@@ -5,10 +5,16 @@ import MarkdownItMathjax3 from 'markdown-it-mathjax3'
 import { BiDirectionalLinks } from '@nolebase/markdown-it-bi-directional-links'
 import type { Options as ElementTransformOptions } from '@nolebase/markdown-it-element-transform'
 import { ElementTransform } from '@nolebase/markdown-it-element-transform'
+import { buildEndGenerateOpenGraphImages } from '@nolebase/vitepress-plugin-og-image'
 import { githubRepoLink, siteDescription, siteName, targetDomain } from '../metadata'
 import { sidebar } from './docsMetadata.json'
 
 export default defineConfig({
+  vite: {
+    define: {
+      __VUE_PROD_HYDRATION_MISMATCH_DETAILS__: true,
+    },
+  },
   lang: 'en-US',
   title: siteName,
   description: siteDescription,
@@ -39,7 +45,7 @@ export default defineConfig({
       {
         name: 'keywords',
         content:
-          'markdown, knowledgebase, 知识库, vitepress, obsidian, notebook, notes, nekomeowww, littlesound',
+          'markdown, knowledgebase, vitepress, obsidian, notebook, notes, nyovelt',
       },
     ],
 
@@ -52,7 +58,7 @@ export default defineConfig({
     ['meta', { property: 'og:site_name', content: siteName }],
 
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:creator', content: 'Ayaka Neko, Ayaka Rizumu' }],
+    ['meta', { name: 'twitter:creator', content: 'Canarypwn' }],
     [
       'meta',
       { name: 'twitter:image', content: `${targetDomain}/og.png` },
@@ -74,9 +80,9 @@ export default defineConfig({
     },
     socialLinks: [{ icon: 'github', link: githubRepoLink }],
     footer: {
-      message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
+      message: 'Written with <span style="color: #e25555;">&#9829;</span>',
       copyright:
-        '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> © 2022-PRESENT Nólëbase 的创作者们',
+        '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> © 2022-PRESENT Creators of Nólëbase',
     },
     search: {
       provider: 'local',
@@ -144,5 +150,13 @@ export default defineConfig({
         } as ElementTransformOptions
       })())
     },
+  },
+  async buildEnd(siteConfig) {
+    await buildEndGenerateOpenGraphImages({
+      domain: targetDomain,
+      category: {
+        byLevel: 2,
+      },
+    })(siteConfig)
   },
 })

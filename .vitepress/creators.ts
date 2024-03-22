@@ -1,4 +1,4 @@
-const creatorNames = ['nekomeowww', 'LittleSound']
+const creatorNames = ['nyovelt']
 
 export interface UserAvatar {
   name: string
@@ -34,28 +34,16 @@ export const users = creatorNames.reduce((acc, name) => {
 
 const creators: Creators[] = [
   {
-    name: '絢香猫',
-    avatar: creatorAvatars.nekomeowww,
+    name: 'Canarypwn',
+    avatar: creatorAvatars.nyovelt,
     title: 'Nólëbase 原始创作者',
-    desc: '开发者，专注于基础设施维护，数据分析，后端、DevOps 开发',
+    desc: '开发者',
     links: [
-      { type: 'github', icon: 'github', link: 'https://github.com/nekomeowww' },
-      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/ayakaneko' },
+      { type: 'github', icon: 'github', link: 'https://github.com/nyovelt' },
+      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/nyovelt' },
     ],
-    nameAliases: ['nekomeowww', '绚香猫', '絢香猫', 'Neko Ayaka', 'Ayaka Neko'],
-    emailAliases: ['neko@ayaka.moe'],
-  },
-  {
-    name: '絢香音',
-    avatar: creatorAvatars.LittleSound,
-    title: 'Nólëbase 原始创作者',
-    desc: '开源开发者，专注于前端，以及前端相关工具库和工具链开发',
-    links: [
-      { type: 'github', icon: 'github', link: 'https://github.com/LittleSound' },
-      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/OikawaRizumu' },
-    ],
-    nameAliases: ['LittleSound', '绚香音', '絢香音', 'Rizumu Oikawa', 'Rizumu Ayaka', 'Ayaka Rizumu', 'Rizumu'],
-    emailAliases: ['rizumu@ayaka.moe', 'rizumu@oqo.moe'],
+    nameAliases: ['nyovelt', 'Canarypwn'],
+    emailAliases: ['canarypwn@aosc.io'],
   },
 ]
 
