@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Awesome-Collections/URLs.md",
+                "file": "Notes/Cookbooks/Ultility/Poetry.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Papers/LLM/Transformer.md",
+                "file": "Notes/Papers/LLM/ServerlessLLM.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,20 +62,12 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "f568bf7e439d398b",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -107,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Papers/LLM/Transformer.md",
+                "file": "Notes/Papers/LLM/ServerlessLLM.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -154,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Papers/LLM/Transformer.md"
+                "file": "Notes/Papers/LLM/ServerlessLLM.md"
               }
             }
           },
@@ -167,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "00f8f8ad2cb9f9b0",
@@ -180,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Papers/LLM/Transformer.md",
+                "file": "Notes/Papers/LLM/ServerlessLLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Papers/LLM/Transformer.md",
+                "file": "Notes/Papers/LLM/ServerlessLLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,12 +225,20 @@
   },
   "active": "55b44aee637a9b3a",
   "lastOpenFiles": [
+    "Notes/Papers/LLM/Transformer.md",
+    "Notes/Papers/LLM/ServerlessLLM.md",
     "Notes/Papers/LLM/Quantization for LLM.md",
+    "Untitled.canvas",
+    "2024-03-29.md",
+    "Untitled.md",
+    "Notes/Cookbooks/Cloud/Minikube on Ubuntu.md",
     "Notes/Projects/FCA/FCA-bug5.md",
+    "Notes/Education/Courses Notes/UC Berkeley CS 188.md",
+    "Notes/Cookbooks/Ultility/Poetry.md",
+    "Notes/Awesome-Collections/URLs.md",
+    "Notes/Education/Courses Notes",
     "Notes/Life/Taxes/OLT guide.md",
     "Notes/Projects/FCA/FCA Experiment.md",
-    "Notes/Cookbooks/Ultility/Poetry.md",
-    "Notes/Papers/LLM/Transformer.md",
     "Notes/Cookbooks/Ultility",
     "node_modules/@vueuse",
     "node_modules/@nolebase",
@@ -248,11 +248,8 @@
     "node_modules/@eslint-community",
     "node_modules/@unocss",
     "node_modules/@stylistic",
-    "node_modules/@typescript-eslint",
-    "Notes/Awesome-Collections/URLs.md",
     "w2taxexempt.png",
     "Pasted image 20240320002332.png",
-    "Notes/Cookbooks/Cloud/Minikube on Ubuntu.md",
     "Notes/Road to LLM/huggingface.md",
     "URLs.md",
     "Notes/index.md",
@@ -267,10 +264,6 @@
     "编目 Catalog/文章/在 Go 语言 14 年的发展历史中，我们做得对的和不对的.md",
     "编目 Catalog/文章/The Open Source Sustainability Crisis.md",
     "编目 Catalog/文章/The Engineering behind Figma's Vector Networks.md",
-    "编目 Catalog/文章/Python, Go, and TypeScript - My Insights on Crafting Command Line Interfaces.md",
-    "编目 Catalog/文章/Displaying content as a graph - An exploration - This is important.md",
-    "编目 Catalog/文章/Building a fully local LLM voice assistant to control my smart home - Hacker News.md",
-    "编目 Catalog/书籍/礼物 - 礼物经济.md",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-4.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-3.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-2.png",
@@ -280,7 +273,6 @@
     "笔记/🪄 Vtuber/assets/live-streaming-as-a-vtuber-on-macos-screenshot-7.png",
     "笔记/🪄 Vtuber/assets/live-streaming-as-a-vtuber-on-macos-screenshot-6.png",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "未命名.canvas"
   ]
 }
