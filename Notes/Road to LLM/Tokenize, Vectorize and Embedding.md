@@ -5,7 +5,7 @@ tags:
   - vectorize
   - embedding
 ---
-# Token, Vector and Embedding
+# Tokenize, Vectorize and Embedding
 ## What is token
 ![NvdeuG](https://webresources.aaaab3n.moe/uPic/NvdeuG.png)
 Token is more like translate human language to llm readable language use "vocabulary". In compilers, "**Lexical tokenization** is conversion of a text into (semantically or syntactically) meaningful _lexical tokens_ belonging to categories defined by a "lexer" program", similar in LLM, LLM will *tokeninze* word into a "number" mostly depend on its "word class" or language properties. 
