@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Papers/LLM/ServerlessLLM.md",
+                "file": "Notes/Road to LLM/Token, Vector and Embedding.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Papers/LLM/ServerlessLLM.md",
+                "file": "Notes/Road to LLM/Token, Vector and Embedding.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Papers/LLM/ServerlessLLM.md"
+                "file": "Notes/Road to LLM/Token, Vector and Embedding.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Papers/LLM/ServerlessLLM.md",
+                "file": "Notes/Road to LLM/Token, Vector and Embedding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Papers/LLM/ServerlessLLM.md",
+                "file": "Notes/Road to LLM/Token, Vector and Embedding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,8 +225,9 @@
   },
   "active": "55b44aee637a9b3a",
   "lastOpenFiles": [
-    "Notes/Papers/LLM/Transformer.md",
     "Notes/Papers/LLM/ServerlessLLM.md",
+    "Notes/Road to LLM/Token, Vector and Embedding.md",
+    "Notes/Papers/LLM/Transformer.md",
     "Notes/Papers/LLM/Quantization for LLM.md",
     "Untitled.canvas",
     "2024-03-29.md",
@@ -263,7 +264,6 @@
     "编目 Catalog/文章/开一家自己的出版社，再出一本自己写的书 - 少数派.md",
     "编目 Catalog/文章/在 Go 语言 14 年的发展历史中，我们做得对的和不对的.md",
     "编目 Catalog/文章/The Open Source Sustainability Crisis.md",
-    "编目 Catalog/文章/The Engineering behind Figma's Vector Networks.md",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-4.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-3.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-2.png",
