@@ -116,6 +116,8 @@ It cost 662 MB of GPU Memory.
 2. Token is the basic unit.
 3. LLMs take embeddings.
 
+![d8svlz](https://webresources.aaaab3n.moe/uPic/d8svlz.png)
+
 ## References
 - https://thenewstack.io/the-building-blocks-of-llms-vectors-tokens-and-embeddings/#:~:text=Embeddings%20are%20what%20allow%20LLMs,its%20relationships%20with%20other%20tokens.
 - https://medium.com/@liusimao8/using-llama-2-models-for-text-embedding-with-langchain-79183350593d
