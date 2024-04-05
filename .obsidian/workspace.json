@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Road to LLM/Tokenize, Vectorize and Embedding.md",
+                "file": "Notes/Papers/LLM/ServerlessLLM.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Road to LLM/Tokenize, Vectorize and Embedding.md",
+                "file": "Notes/Papers/LLM/ServerlessLLM.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Road to LLM/Tokenize, Vectorize and Embedding.md"
+                "file": "Notes/Papers/LLM/ServerlessLLM.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Road to LLM/Tokenize, Vectorize and Embedding.md",
+                "file": "Notes/Papers/LLM/ServerlessLLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Road to LLM/Tokenize, Vectorize and Embedding.md",
+                "file": "Notes/Papers/LLM/ServerlessLLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,10 +224,10 @@
   },
   "active": "07b441c80f01f190",
   "lastOpenFiles": [
-    "Notes/Cookbooks/Ultility/Poetry.md",
-    "Notes/Road to LLM/Tokenize, Vectorize and Embedding.md",
-    "Notes/Papers/LLM/ServerlessLLM.md",
     "Notes/Papers/LLM/Transformer.md",
+    "Notes/Road to LLM/Tokenize, Vectorize and Embedding.md",
+    "Notes/Cookbooks/Ultility/Poetry.md",
+    "Notes/Papers/LLM/ServerlessLLM.md",
     "Notes/Papers/LLM/Quantization for LLM.md",
     "Untitled.canvas",
     "2024-03-29.md",

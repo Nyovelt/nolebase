@@ -48,6 +48,27 @@ Leveraging the multi-tier storage architecture for local checkpoint storage and 
  7. The request router checks the flag in the inference response. If it is “migrated”, the request router replaces src server with dest server in its route table and sends all tokens to dest server to continue inference.
 ### Locality-Aware Server Allocation
 ![Rl6i2d](https://webresources.aaaab3n.moe/uPic/Rl6i2d.png)
-
+Key idea: Measure the time for migration, estimate model loading time and migration time.
 ## **What is the work's _evaluation_ of the proposed solution?**
 ServerlessLLM demonstrated a 10-200X improvement in latency for running OPT model inferences across datasets, which shows ServerlessLLM’s effectiveness.
+
+- LLM workload evaluation: Described in AlpaServe
+- LLM checkpoint manager: PyTorch and Safetensors
+
+## **What is your analysis of the identified problem, idea and evaluation?**
+
+Running LLM on serverless might be a future trend, and the overhead brought by Serverless will amplify on LLMs. It's glad to see the solution on utilize the system throughput and add locality, however there might still have overheads and question mark exist: Recover from checkpoint, Migrating by token, Invoke by GPU address.
+
+## **What are the _contributions_?**
+1. LLM migration
+2. Measurement on LLM migration and model loading
+3. GPU memory management
+
+## **What are _future directions_ for this research?**
+WIP
+
+## **What questions are you left with?**
+WIP
+
+## **What is your take-away message from this paper?**
+WIP
