@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Cookbooks/Ultility/Poetry.md",
+                "file": "Notes/Road to LLM/Tokenize, Vectorize and Embedding.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,10 +222,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55b44aee637a9b3a",
+  "active": "07b441c80f01f190",
   "lastOpenFiles": [
-    "Notes/Papers/LLM/ServerlessLLM.md",
+    "Notes/Cookbooks/Ultility/Poetry.md",
     "Notes/Road to LLM/Tokenize, Vectorize and Embedding.md",
+    "Notes/Papers/LLM/ServerlessLLM.md",
     "Notes/Papers/LLM/Transformer.md",
     "Notes/Papers/LLM/Quantization for LLM.md",
     "Untitled.canvas",
@@ -235,7 +235,6 @@
     "Notes/Cookbooks/Cloud/Minikube on Ubuntu.md",
     "Notes/Projects/FCA/FCA-bug5.md",
     "Notes/Education/Courses Notes/UC Berkeley CS 188.md",
-    "Notes/Cookbooks/Ultility/Poetry.md",
     "Notes/Awesome-Collections/URLs.md",
     "Notes/Education/Courses Notes",
     "Notes/Life/Taxes/OLT guide.md",
