@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Papers/LLM/ServerlessLLM.md",
+                "file": "Notes/Cookbooks/Ultility/Poetry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "342cb0846eee6406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Life/Costco.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,8 +73,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "poetry",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -98,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Papers/LLM/ServerlessLLM.md",
+                "file": "Notes/Life/Costco.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Papers/LLM/ServerlessLLM.md"
+                "file": "Notes/Life/Costco.md"
               }
             }
           },
@@ -171,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Papers/LLM/ServerlessLLM.md",
+                "file": "Notes/Life/Costco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Papers/LLM/ServerlessLLM.md",
+                "file": "Notes/Life/Costco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,22 +235,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07b441c80f01f190",
+  "active": "342cb0846eee6406",
   "lastOpenFiles": [
+    "Notes/Life/Costco.md",
+    "Notes/Life/Untitled",
+    "Untitled",
+    "Notes/Cookbooks/Cloud/Minikube on Ubuntu.md",
+    "Notes/Projects/FCA/FCA-bug5.md",
+    "Notes/Life/Taxes/File tax-turn.md",
+    "Notes/Life/Taxes/OLT guide.md",
+    "Notes/Awesome-Collections/URLs.md",
+    "Notes/Papers/LLM/ServerlessLLM.md",
     "Notes/Papers/LLM/Transformer.md",
     "Notes/Road to LLM/Tokenize, Vectorize and Embedding.md",
     "Notes/Cookbooks/Ultility/Poetry.md",
-    "Notes/Papers/LLM/ServerlessLLM.md",
     "Notes/Papers/LLM/Quantization for LLM.md",
     "Untitled.canvas",
     "2024-03-29.md",
     "Untitled.md",
-    "Notes/Cookbooks/Cloud/Minikube on Ubuntu.md",
-    "Notes/Projects/FCA/FCA-bug5.md",
     "Notes/Education/Courses Notes/UC Berkeley CS 188.md",
-    "Notes/Awesome-Collections/URLs.md",
     "Notes/Education/Courses Notes",
-    "Notes/Life/Taxes/OLT guide.md",
     "Notes/Projects/FCA/FCA Experiment.md",
     "Notes/Cookbooks/Ultility",
     "node_modules/@vueuse",
@@ -246,8 +263,6 @@
     "node_modules/@iconify-json",
     "node_modules/@eslint",
     "node_modules/@eslint-community",
-    "node_modules/@unocss",
-    "node_modules/@stylistic",
     "w2taxexempt.png",
     "Pasted image 20240320002332.png",
     "Notes/Road to LLM/huggingface.md",
@@ -261,8 +276,6 @@
     "编目 Catalog/视频/transformers 源码阅读——图解 mixtral 模型——图解 MoE 细节 - 哔哩哔哩 bilibili.md",
     "编目 Catalog/文章/面向人力资源的 GitHub 指南 - 夜天之书.md",
     "编目 Catalog/文章/开一家自己的出版社，再出一本自己写的书 - 少数派.md",
-    "编目 Catalog/文章/在 Go 语言 14 年的发展历史中，我们做得对的和不对的.md",
-    "编目 Catalog/文章/The Open Source Sustainability Crisis.md",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-4.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-3.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-2.png",
