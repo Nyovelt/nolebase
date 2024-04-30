@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Life/Costco.md",
+                "file": "Notes/Road to LLM/From 1 to 1000.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Life/Costco.md",
+                "file": "Notes/Road to LLM/From 1 to 1000.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Life/Costco.md"
+                "file": "Notes/Road to LLM/From 1 to 1000.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Life/Costco.md",
+                "file": "Notes/Road to LLM/From 1 to 1000.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Life/Costco.md",
+                "file": "Notes/Road to LLM/From 1 to 1000.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,6 +238,7 @@
   "active": "342cb0846eee6406",
   "lastOpenFiles": [
     "Notes/Life/Costco.md",
+    "Notes/Road to LLM/From 1 to 1000.md",
     "Notes/Life/Untitled",
     "Untitled",
     "Notes/Cookbooks/Cloud/Minikube on Ubuntu.md",
@@ -275,7 +276,6 @@
     "编目 Catalog/视频/【122集付费！】CNN、RNN、GAN、GNN、DQN、Transformer、LSTM等八大深度学习神经网络一口气全部学完！比刷剧还爽！ - 哔哩哔哩 bilibili.md",
     "编目 Catalog/视频/transformers 源码阅读——图解 mixtral 模型——图解 MoE 细节 - 哔哩哔哩 bilibili.md",
     "编目 Catalog/文章/面向人力资源的 GitHub 指南 - 夜天之书.md",
-    "编目 Catalog/文章/开一家自己的出版社，再出一本自己写的书 - 少数派.md",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-4.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-3.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-2.png",
