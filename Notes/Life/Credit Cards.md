@@ -7,12 +7,19 @@ tags:
 ## Rankings
 
 T0:     UAR
+
 T0.5:  CSP, Amex Gold
+
 T1:      Ritz, Citi Premier
+
 T1.5:   CFF, CFU, Citi DC, Citi CC, Chase Marriot
+
 T2:      Amex Plat, CSR, HSBC, Bilt, Hilton Aspire
+
 T3:      Aero Cards and Hotel Cards
+
 T4:      Citi Costco, Apple Cards
+
 
 ### Tier 0: Take advantage of every opportunity.
 #### US Bank Altitude Reserve (UAR)
