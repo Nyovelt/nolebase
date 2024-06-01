@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Life/Credit Cards.md",
+                "file": "Notes/Research/Papers/mlsys_osdi24_sosp23/LLMSys Papers appeared in OSDI'24 and SOSP'23.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Life/Credit Cards.md",
+                "file": "Notes/Research/Papers/mlsys_osdi24_sosp23/LLMSys Papers appeared in OSDI'24 and SOSP'23.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Life/Credit Cards.md"
+                "file": "Notes/Research/Papers/mlsys_osdi24_sosp23/LLMSys Papers appeared in OSDI'24 and SOSP'23.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Life/Credit Cards.md",
+                "file": "Notes/Research/Papers/mlsys_osdi24_sosp23/LLMSys Papers appeared in OSDI'24 and SOSP'23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Life/Credit Cards.md",
+                "file": "Notes/Research/Papers/mlsys_osdi24_sosp23/LLMSys Papers appeared in OSDI'24 and SOSP'23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,27 +210,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b23e7a2ae382afe7",
+  "active": "b5dfc4e6c8287ee4",
   "lastOpenFiles": [
+    "Notes/Research/Papers/LLM/Transformer.md",
+    "Notes/Research/Papers/LLM/Quantization for LLM.md",
+    "Notes/Research/Papers/LLM/ServerlessLLM.md",
+    "Notes/Research/Papers/mlsys_osdi24_sosp23/LLMSys Papers appeared in OSDI'24 and SOSP'23.md",
+    "Notes/Education/Courses Notes/UC Berkeley CS 188.md",
+    "Notes/Research/Papers/mlsys_osdi24_sosp23",
+    "Untitled",
+    "Notes/Life/NCSU/Health Insurance Coverage.md",
+    "Notes/Research",
     "Notes/Life/Costco.md",
+    "Notes/Life/NCSU",
     "Notes/Life/Credit Cards.md",
     "Notes/Life/Taxes/File tax-turn.md",
     "Notes/Life/Taxes/OLT guide.md",
-    "Notes/Road to LLM/From 1 to 1000.md",
-    "Notes/Life/Untitled",
-    "Untitled",
+    "Notes/Research/Road to LLM/From 1 to 1000.md",
     "Notes/Cookbooks/Cloud/Minikube on Ubuntu.md",
-    "Notes/Projects/FCA/FCA-bug5.md",
+    "Notes/Research/Projects/FCA/FCA-bug5.md",
     "Notes/Awesome-Collections/URLs.md",
-    "Notes/Papers/LLM/ServerlessLLM.md",
-    "Notes/Papers/LLM/Transformer.md",
-    "Notes/Road to LLM/Tokenize, Vectorize and Embedding.md",
+    "Notes/Research/Road to LLM/Tokenize, Vectorize and Embedding.md",
     "Notes/Cookbooks/Ultility/Poetry.md",
-    "Notes/Papers/LLM/Quantization for LLM.md",
     "Untitled.canvas",
     "2024-03-29.md",
     "Untitled.md",
-    "Notes/Education/Courses Notes/UC Berkeley CS 188.md",
     "Notes/Education/Courses Notes",
     "Notes/Projects/FCA/FCA Experiment.md",
     "Notes/Cookbooks/Ultility",
@@ -238,19 +242,15 @@
     "node_modules/@nolebase",
     "node_modules/@netlify",
     "node_modules/@iconify-json",
-    "node_modules/@eslint",
-    "node_modules/@eslint-community",
     "w2taxexempt.png",
     "Pasted image 20240320002332.png",
-    "Notes/Road to LLM/huggingface.md",
+    "Notes/Research/Road to LLM/huggingface.md",
     "URLs.md",
     "Notes/index.md",
     "视图/未添加标签的页面.md",
     "视图/尚未编写完成的页面.md",
     "编目 Catalog/视频/高中生就能看懂的群论，如何从对称性构建出群，群论01：什么是群 - 哔哩哔哩 bilibili.md",
     "编目 Catalog/视频/如何选取 RAG 中的 embedding 模型 - 哔哩哔哩 bilibili.md",
-    "编目 Catalog/视频/【122集付费！】CNN、RNN、GAN、GNN、DQN、Transformer、LSTM等八大深度学习神经网络一口气全部学完！比刷剧还爽！ - 哔哩哔哩 bilibili.md",
-    "编目 Catalog/视频/transformers 源码阅读——图解 mixtral 模型——图解 MoE 细节 - 哔哩哔哩 bilibili.md",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-4.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-3.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-2.png",
