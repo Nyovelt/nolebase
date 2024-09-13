@@ -8,7 +8,7 @@ tags:
 	- Tianyin Xu, OSDI 24 Best Paper
 	- A **formal verification** framework to verify the correctness (not only the safety, but also the *liveness*) of Kubenetes Controller
 - **Acto: Automatic End-to-End Testing for Operation Correctness of Cloud System Management**
-	- Tianyin Xu, SOSP 23
+	- Tianyin Xu, Owolabi, SOSP 23
 	- An end-to-end tester for Kubenetes Operators.  Acto continuously instructs an operator to reconcile a system to **different states** and **checks** if the system success-fully reaches those desired states. 
 - **Push-Button Reliability Testing for Cloud-Backed Applications with Rainmaker**
 	- Tianyin Xu, NSDI 23
@@ -18,7 +18,7 @@ tags:
 	- Tianyin Xu, OSDI 22
 	-  Automated reliability testing for Kubenetes controller, by **Systematic Perturbation Testing** and **Differential Test Oracles**
 - **Testing Configuration Changes in Context to Prevent Production Failures** (CTest)
-	- Tianyin, OSDI 20
+	- Tianyin, Owolabi, OSDI 20
 	- CTest tested configuration changes by re-do tests related to the configuration change context, and ctest can be generated from existing tests.
 - **Do Not Blame Users for Misconfigurations**
 	- Tianyin, SOSP 13
