@@ -1,0 +1,52 @@
+---
+tags:
+  - Research
+  - Testing
+---
+- **Anvil: Verifying Liveness of Cluster Management Controllers**
+	- Tianyin Xu, OSDI 24 Best Paper
+	- A **formal verification** framework to verify the correctness (not only the safety, but also the *liveness*) of Kubenetes Controller
+- **Acto: Automatic End-to-End Testing for Operation Correctness of Cloud System Management**
+	- Tianyin Xu, SOSP 23
+	- An end-to-end tester for Kubenetes Operators.  Acto continuously instructs an operator to reconcile a system to **different states** and **checks** if the system success-fully reaches those desired states. 
+- **Push-Button Reliability Testing for Cloud-Backed Applications with Rainmaker**
+	- Tianyin Xu, NSDI 23
+	- Automatic restful **api fault hijacking and injection**
+	- Related works:  fault injection techniques and error-handling analysis for cloud apps testing
+- **Automatic Reliability Testing for Cluster Management Controllers**
+	- Tianyin Xu, OSDI 22
+	-  Automated reliability testing for Kubenetes controller, by **Systematic Perturbation Testing** and **Differential Test Oracles**
+- **Testing Configuration Changes in Context to Prevent Production Failures** (CTest)
+	- Tianyin, OSDI 20
+	- CTest tested configuration changes by re-do tests related to the configuration change context, and ctest can be generated from existing tests.
+- **Do Not Blame Users for Misconfigurations**
+	- Tianyin, SOSP 13
+	- Using **Static Analysis** to Infer Configuration Constraints
+
+- **Efficient Exposure of Partial Failure Bugs in Distributed Systems with Inferred Abstract States**
+	- Peng (Ryan) Huang, NSDI 2024
+	- Use static analysis to automatically infers abstract states from distributed system code to make fault injection. It use **Budgeted-State-Round-Robin (BSRR) Algorithm** to guide fault injection decisions.
+- **Run-Time Prevention of Software Integration Failures of Machine Learning APIs**
+	- Shan Lu, OOPSLA 2023
+	- preventing integration failures in software applications using **machine learning (ML) APIs**
+		- exceptions, mismatching ....
+
+- **Automated Verification of Idempotence for Stateful Serverless Applications**
+	- Haibo Chen, OSDI 2023
+	- **Verification** of Idempotence for Serverless
+- **Fail through the Cracks: Cross-System Interaction Failures in Modern Cloud Systems**
+	- Tianyin Xu, Yongle Zhang, EuroSys 23
+	- Cloud system reliability is affected not only bythe reliability of each individual system, but also by the interplay between these systems. 
+	- Open-Source CSI Failure **Dataset**
+	- Cross-System Testing: check whether the two systems, Spark and Hive, each process data consistently by writing the data and then reading it through various interfaces of the two systems.
+- **Understanding and Detecting Software Upgrade Failures in Distributed Systems**
+	- Shan Lu, Yongle Zhang, Ding Yuan, SOSP 21
+	- A **static checkers** DUPChecker 
+	- Related Work:  automated testing
+	- we designed a static checker DUPChecker to search for two types of data-syntax incompatibility across versions: 
+		- (type-1) on data defined by serialization libraries and 
+		- (type-2) on data of enum types,
+- **Simple Testing Can Prevent Most Critical Failures**
+	- Ding Yuan, Yongle Zhang, OSDI 14
+	- We ex-tracted three simple rules from the bugs that have lead to some of the catastrophic failures, and developed a **static checker**, Aspirator, capable of locating these bugs
+- 
