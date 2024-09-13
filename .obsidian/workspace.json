@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Research/Papers/mlsys_osdi24_sosp23/LLMSys Papers appeared in OSDI'24 and SOSP'23.md",
+                "file": "Notes/Research/Papers/Testing/Awesome dist system testing papers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d7b438c6899bb74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to collect Traces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39977f497d52801a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Education/Courses Notes/CSC514 Crypto.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Research/Papers/mlsys_osdi24_sosp23/LLMSys Papers appeared in OSDI'24 and SOSP'23.md",
+                "file": "Notes/Research/Papers/Testing/Awesome dist system testing papers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -133,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Research/Papers/mlsys_osdi24_sosp23/LLMSys Papers appeared in OSDI'24 and SOSP'23.md"
+                "file": "Notes/Research/Papers/Testing/Awesome dist system testing papers.md"
               }
             }
           },
@@ -146,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "00f8f8ad2cb9f9b0",
@@ -159,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Research/Papers/mlsys_osdi24_sosp23/LLMSys Papers appeared in OSDI'24 and SOSP'23.md",
+                "file": "Notes/Research/Papers/Testing/Awesome dist system testing papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Research/Papers/mlsys_osdi24_sosp23/LLMSys Papers appeared in OSDI'24 and SOSP'23.md",
+                "file": "Notes/Research/Papers/Testing/Awesome dist system testing papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,13 +234,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5dfc4e6c8287ee4",
+  "active": "b23e7a2ae382afe7",
   "lastOpenFiles": [
+    "Notes/Research/Papers/mlsys_osdi24_sosp23/LLMSys Papers appeared in OSDI'24 and SOSP'23.md",
+    "How to collect Traces.md",
+    "Notes/Education/Courses Notes/CSC514 Crypto.md",
+    "Notes/Education/Courses Notes/UC Berkeley CS 188.md",
+    "Notes/Research/Papers/Testing/Awesome dist system testing papers.md",
+    "Notes/Research/Papers/Testing",
     "Notes/Research/Papers/LLM/Transformer.md",
     "Notes/Research/Papers/LLM/Quantization for LLM.md",
     "Notes/Research/Papers/LLM/ServerlessLLM.md",
-    "Notes/Research/Papers/mlsys_osdi24_sosp23/LLMSys Papers appeared in OSDI'24 and SOSP'23.md",
-    "Notes/Education/Courses Notes/UC Berkeley CS 188.md",
     "Notes/Research/Papers/mlsys_osdi24_sosp23",
     "Untitled",
     "Notes/Life/NCSU/Health Insurance Coverage.md",
@@ -241,16 +269,12 @@
     "node_modules/@vueuse",
     "node_modules/@nolebase",
     "node_modules/@netlify",
-    "node_modules/@iconify-json",
     "w2taxexempt.png",
     "Pasted image 20240320002332.png",
     "Notes/Research/Road to LLM/huggingface.md",
     "URLs.md",
     "Notes/index.md",
     "视图/未添加标签的页面.md",
-    "视图/尚未编写完成的页面.md",
-    "编目 Catalog/视频/高中生就能看懂的群论，如何从对称性构建出群，群论01：什么是群 - 哔哩哔哩 bilibili.md",
-    "编目 Catalog/视频/如何选取 RAG 中的 embedding 模型 - 哔哩哔哩 bilibili.md",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-4.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-3.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-2.png",
