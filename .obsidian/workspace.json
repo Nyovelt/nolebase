@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Research/Papers/Testing/Awesome dist system testing papers.md",
+                "file": "Notes/Life/RTP/Food Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Research/Papers/Testing/Awesome dist system testing papers.md",
+                "file": "Notes/Life/RTP/Food Map.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Research/Papers/Testing/Awesome dist system testing papers.md"
+                "file": "Notes/Life/RTP/Food Map.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Research/Papers/Testing/Awesome dist system testing papers.md",
+                "file": "Notes/Life/RTP/Food Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Research/Papers/Testing/Awesome dist system testing papers.md",
+                "file": "Notes/Life/RTP/Food Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,11 +224,15 @@
   },
   "active": "b23e7a2ae382afe7",
   "lastOpenFiles": [
+    "Notes/Research/Papers/Testing/Awesome dist system testing papers.md",
+    "Notes/Life/RTP/Food Map.md",
+    "Notes/Life/RTP",
+    "Notes/Life/RTP.md",
+    "Notes/Life/NCSU/Untitled.md",
     "Notes/Research/Papers/mlsys_osdi24_sosp23/LLMSys Papers appeared in OSDI'24 and SOSP'23.md",
     "How to collect Traces.md",
     "Notes/Education/Courses Notes/CSC514 Crypto.md",
     "Notes/Education/Courses Notes/UC Berkeley CS 188.md",
-    "Notes/Research/Papers/Testing/Awesome dist system testing papers.md",
     "Notes/Research/Papers/Testing",
     "Notes/Research/Papers/LLM/Transformer.md",
     "Notes/Research/Papers/LLM/Quantization for LLM.md",
@@ -256,13 +260,9 @@
     "Notes/Cookbooks/Ultility",
     "node_modules/@vueuse",
     "node_modules/@nolebase",
-    "node_modules/@netlify",
     "w2taxexempt.png",
     "Pasted image 20240320002332.png",
     "Notes/Research/Road to LLM/huggingface.md",
-    "URLs.md",
-    "Notes/index.md",
-    "视图/未添加标签的页面.md",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-4.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-3.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-2.png",
