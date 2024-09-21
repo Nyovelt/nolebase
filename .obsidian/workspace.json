@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Life/RTP/Food Map.md",
+                "file": "Notes/Life/Cookbook/Cookbooks.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Life/RTP/Food Map.md",
+                "file": "Notes/Life/Cookbook/Cookbooks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Life/RTP/Food Map.md"
+                "file": "Notes/Life/Cookbook/Cookbooks.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Life/RTP/Food Map.md",
+                "file": "Notes/Life/Cookbook/Cookbooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Life/RTP/Food Map.md",
+                "file": "Notes/Life/Cookbook/Cookbooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,8 +224,10 @@
   },
   "active": "b23e7a2ae382afe7",
   "lastOpenFiles": [
-    "Notes/Research/Papers/Testing/Awesome dist system testing papers.md",
     "Notes/Life/RTP/Food Map.md",
+    "Notes/Life/Cookbook/Cookbooks.md",
+    "Notes/Life/Cookbook",
+    "Notes/Research/Papers/Testing/Awesome dist system testing papers.md",
     "Notes/Life/RTP",
     "Notes/Life/RTP.md",
     "Notes/Life/NCSU/Untitled.md",
@@ -259,10 +261,8 @@
     "Notes/Projects/FCA/FCA Experiment.md",
     "Notes/Cookbooks/Ultility",
     "node_modules/@vueuse",
-    "node_modules/@nolebase",
     "w2taxexempt.png",
     "Pasted image 20240320002332.png",
-    "Notes/Research/Road to LLM/huggingface.md",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-4.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-3.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-2.png",
