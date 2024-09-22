@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Life/Cookbook/Cookbooks.md",
+                "file": "Notes/Life/RTP/Food Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Life/Cookbook/Cookbooks.md",
+                "file": "Notes/Life/RTP/Food Map.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Life/Cookbook/Cookbooks.md"
+                "file": "Notes/Life/RTP/Food Map.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Life/Cookbook/Cookbooks.md",
+                "file": "Notes/Life/RTP/Food Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Life/Cookbook/Cookbooks.md",
+                "file": "Notes/Life/RTP/Food Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,8 +224,10 @@
   },
   "active": "b23e7a2ae382afe7",
   "lastOpenFiles": [
-    "Notes/Life/RTP/Food Map.md",
+    "Notes/Awesome-Collections/USCardForum.md",
     "Notes/Life/Cookbook/Cookbooks.md",
+    "Notes/Life/Untitled",
+    "Notes/Life/RTP/Food Map.md",
     "Notes/Life/Cookbook",
     "Notes/Research/Papers/Testing/Awesome dist system testing papers.md",
     "Notes/Life/RTP",
@@ -258,9 +260,7 @@
     "2024-03-29.md",
     "Untitled.md",
     "Notes/Education/Courses Notes",
-    "Notes/Projects/FCA/FCA Experiment.md",
     "Notes/Cookbooks/Ultility",
-    "node_modules/@vueuse",
     "w2taxexempt.png",
     "Pasted image 20240320002332.png",
     "笔记/🪄 Vtuber/assets/reduce-system-load-when-streaming-with-obs-on-macos-4.png",

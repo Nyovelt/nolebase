@@ -18,4 +18,14 @@ tags:
 - Less Recommended:
 	- 海南鸡饭
 
+#### Super Wok
+- Location: https://maps.app.goo.gl/2sHt5jXiTRDsRuiq9
+- My rating: 4.7/5
+- Reviews:
+	- One of the top Chinese foods in the RTP area. Although there is still a gap with restaurants in China.
+- Recommeneded:
+	- 烤鱼
+- Less Recommended:
+	- 松鼠鱼
+
 ## Japanese Food
