@@ -8,9 +8,9 @@ tags:
 
 T0:     UAR
 
-T0.5:  CSP, Amex Gold, HSBC Premier  
+T0.5:  CSP, Amex Gold
 
-T1:      Ritz, Citi Premier
+T1:      Ritz, Citi Premier, HSBC Elite  
 
 T1.5:   CFF, CFU, Citi DC, Citi CC, Chase Marriot
 
@@ -40,9 +40,7 @@ Cathy Pacific is a good point transfer partner for AMEX as I will annually fly a
 
 Sometimes you can open Gold for multiple times.
 
-### HSBC Elite
 
-5x for all travel? Too good to be true.
 
 #### Tier 1: Worth holding for the long term.
 #### Chase Ritz-Carlton Credit Card (Ritz)
@@ -71,6 +69,9 @@ These cards are only used for a few days a year.
 
 #### Chase Marriott Bonvoy Boundless
 A critical dependency to Ritz. Usually have high SUBs.
+
+### HSBC Elite
+5x for all travel? Too good to be true.
 
 
 ## Tier 2: 
