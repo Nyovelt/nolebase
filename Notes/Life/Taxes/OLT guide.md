@@ -20,13 +20,17 @@ Nonresident alien individuals, estates, and trusts should turn to **Form 1040-NR
 
 ### Do you want to file Form 8840
 
-Filing Form 8840 can significantly reduce your tax liability and simplify your tax filings by asserting a closer connection to a foreign country than to the U.S., indicating no migration intentions.
+You are not eligible for the closer connection exception if any of the following apply.
+
+-    You were present in the United States 183 days or more in the current year.
+-    You are a lawful permanent resident of the United States (that is, you are a green card holder).
+-    You have applied for, or taken other affirmative steps to apply for, a green card; or have an application pending to change your status to that of a lawful permanent resident of the United States.
 
 ### Do you want to file Form 8843
 
 If you're here on an type **F**, **J**, **M**, or **Q** visa, filing Form 8843 is crucial. It exempts you from the Substantial Presence Test, potentially altering your tax status.
 
-As a student, I filled both 8840 and 8843.
+As a student stayed most of the time at US, I filled 8843.
 
 #### Enter the number of days in 2023 you claim you can exclude for purposes of the substantial presence test
 
