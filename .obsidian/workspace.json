@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "OLT guide"
             }
+          },
+          {
+            "id": "ef11598003916528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Research/Talks/Optimizing Continuous Development Reliability and Efficiency.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Optimizing Continuous Development Reliability and Efficiency"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +83,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -174,10 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Life/Taxes/OLT guide.md"
+                "file": "Notes/Research/Talks/Optimizing Continuous Development Reliability and Efficiency.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OLT guide"
+              "title": "Outline of Optimizing Continuous Development Reliability and Efficiency"
             }
           },
           {
@@ -238,7 +256,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -261,15 +281,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7252ce3158ca289e",
+  "active": "ef11598003916528",
   "lastOpenFiles": [
+    "Pasted image 20250221140318.png",
+    "Notes/index.md",
+    "Notes/Research/Talks/Optimizing Continuous Development Reliability and Efficiency.md",
+    "Notes/Research/Talks",
     "Notes/Awesome-Collections/The companys that I would like to submit job application (a.k.a doing something interesting).md",
     "Notes/Awesome-Collections/URLs.md",
     "Notes/Research/Conference/SC24/Correctness' 24.md",
     "Notes/Untitled.md",
     "Career",
     "Pytorch Testing.md",
-    "Notes/index.md",
     "Notes/Life/Credit Cards.md",
     "Notes/Research/Conference/SC24",
     "Notes/Research/Conference",
@@ -294,11 +317,8 @@
     "Notes/Life/NCSU/Health Insurance Coverage.md",
     "Notes/Research",
     "Notes/Life/Costco.md",
-    "Notes/Life/NCSU",
     "Notes/Life/Taxes/File tax-turn.md",
     "Notes/Life/Taxes/OLT guide.md",
-    "Notes/Research/Road to LLM/From 1 to 1000.md",
-    "Notes/Cookbooks/Cloud/Minikube on Ubuntu.md",
     "Untitled.canvas",
     "w2taxexempt.png",
     "Pasted image 20240320002332.png",
